@@ -1,0 +1,43 @@
+/* HEAD BANNER STYLING  */
+
+#banner {
+    position:relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%; 
+    height: auto;
+}
+
+#bannerimage {
+    position: relative;
+}
+
+/* BODY STYLING */
+
+.pContent {
+    text-align: left;
+    /* font-size: 14px; */
+    font-family:'Times New Roman', Times, serif;
+    color: #000;
+}
+
+.footercustom {
+    text-align: center;
+    color: #000;
+    font-size: 12px;
+    font-variant:small-caps; 
+}
+
+.footer-link {
+    text-decoration: none; 
+    color:cadetblue;
+    padding: 10px; 
+
+}
+
+.footer-link:hover {
+    text-decoration: none;
+    color: #fff;
+}
+
